@@ -1,0 +1,23 @@
+img {
+    width: 300px;
+}
+
+main {
+    background: #eee;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+button {
+color: white;
+background-color: #505355;
+border-radius: 20px;
+width: 25%;
+padding: 10px;
+}
+
+button:hover {
+    background-color: #5BECD8;
+}
+
+

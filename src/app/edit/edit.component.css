@@ -1,0 +1,36 @@
+main {
+    background: #eee;
+    font-family: 'Work Sans', sans-serif;
+
+}
+section {
+    width: 400px;
+    border-radius: 15px;
+}
+
+label {
+    color: #1ECEFD;
+}
+
+form {
+    display: flex;
+    flex-direction: column; 
+}
+
+input {
+    padding: 14px;
+    border-radius: 10px;
+}
+
+button {
+    color: white;
+    background-color: #505355;
+    border-radius: 20px;
+    width: 25%;
+    padding: 10px;
+    
+}
+
+button:hover {
+    background-color: #5BECD8;
+}
